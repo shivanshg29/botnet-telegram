@@ -12,7 +12,7 @@ def ask_gemini(prompt):
     return response.text.strip()
 
 def get_current_meal():
-    hour = datetime.now().hour
+    hour = datetime.now().hour+6
     if 6 <= hour < 11:
         return "breakfast"
     elif 11 <= hour < 16:
