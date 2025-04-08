@@ -14,6 +14,7 @@ def telegram_webhook(request):
     message = data.get('message', {})
     chat_id = message.get('chat', {}).get('id')
     text = message.get('text')
+    reply=""
     if chat_id and text=="/mess":
         reply=menu()
     elif chat_id and text=="/timetable":
