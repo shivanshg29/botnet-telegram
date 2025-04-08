@@ -1,0 +1,192 @@
+{
+    "Monday": [
+      {
+        "time": "09:40 AM",
+        "subject": "PREDICTIVE ANALYTICS USING STATISTICS / ETHICAL HACKING-1",
+        "location": "LT303/F-BLOCK",
+        "type": "Lecture"
+      },
+      {
+        "time": "10:30 AM",
+        "subject": "NLP / ETHICAL HACKING-2",
+        "location": "LT303/F-BLOCK",
+        "type": "Lecture"
+      },
+      {
+        "time": "12:10 PM",
+        "subject": "THEORY OF COMPUTATION",
+        "location": "LT401",
+        "type": "Lecture"
+      },
+      {
+        "time": "01:00 PM",
+        "subject": "MICROPROCESSOR-BASED SYSTEMS DESIGN",
+        "location": "LT401",
+        "type": "Lecture"
+      },
+      {
+        "time": "01:50 PM",
+        "subject": "OPTIMIZATION TECHNIQUES",
+        "location": "LT401",
+        "type": "Lecture"
+      }
+    ],
+    "Tuesday": [
+      {
+        "time": "08:00 AM",
+        "subject": "COMPUTER GRAPHICS",
+        "location": "CG-2 Lab",
+        "type": "Lab"
+      },
+      {
+        "time": "08:50 AM",
+        "subject": "COMPUTER GRAPHICS",
+        "location": "CG-2 Lab",
+        "type": "Lab"
+      },
+      {
+        "time": "09:40 AM",
+        "subject": "PREDICTIVE ANALYTICS USING STATISTICS / ETHICAL HACKING-1",
+        "location": "CSED",
+        "type": "Lab"
+      },
+      {
+        "time": "10:30 AM",
+        "subject": "PREDICTIVE ANALYTICS USING STATISTICS / ETHICAL HACKING-1",
+        "location": "CSED",
+        "type": "Lab"
+      },
+      {
+        "time": "11:20 AM",
+        "subject": "NLP / ETHICAL HACKING-2",
+        "location": "CSED",
+        "type": "Lab"
+      },
+      {
+        "time": "12:10 PM",
+        "subject": "NLP / ETHICAL HACKING-2",
+        "location": "CSED",
+        "type": "Lab"
+      },
+      {
+        "time": "01:50 PM",
+        "subject": "COMPUTER GRAPHICS",
+        "location": "LT401",
+        "type": "Lecture"
+      },
+      {
+        "time": "02:40 PM",
+        "subject": "OPTIMIZATION TECHNIQUES",
+        "location": "LT401",
+        "type": "Lecture"
+      }
+    ],
+    "Wednesday": [
+      {
+        "time": "08:00 AM",
+        "subject": "COMPUTER GRAPHICS",
+        "location": "LT401",
+        "type": "Lecture"
+      },
+      {
+        "time": "08:50 AM",
+        "subject": "THEORY OF COMPUTATION",
+        "location": "LT401",
+        "type": "Lecture"
+      },
+      {
+        "time": "09:40 AM",
+        "subject": "OPTIMIZATION TECHNIQUES",
+        "location": "SS-2 Lab",
+        "type": "Lab"
+      },
+      {
+        "time": "10:30 AM",
+        "subject": "OPTIMIZATION TECHNIQUES",
+        "location": "SS-2 Lab",
+        "type": "Lab"
+      },
+      {
+        "time": "11:20 AM",
+        "subject": "MICROPROCESSOR-BASED SYSTEMS DESIGN",
+        "location": "SE-1 Lab",
+        "type": "Lab"
+      },
+      {
+        "time": "12:10 PM",
+        "subject": "MICROPROCESSOR-BASED SYSTEMS DESIGN",
+        "location": "SE-1 Lab",
+        "type": "Lab"
+      }
+    ],
+    "Thursday": [
+      {
+        "time": "08:50 AM",
+        "subject": "THEORY OF COMPUTATION",
+        "location": "LT401",
+        "type": "Tutorial"
+      },
+      {
+        "time": "09:40 AM",
+        "subject": "MICROPROCESSOR-BASED SYSTEMS DESIGN",
+        "location": "LT401",
+        "type": "Lecture"
+      },
+      {
+        "time": "10:30 AM",
+        "subject": "PREDICTIVE ANALYTICS USING STATISTICS / ETHICAL HACKING-1",
+        "location": "LT303/F-BLOCK",
+        "type": "Lecture"
+      },
+      {
+        "time": "11:20 AM",
+        "subject": "NLP / ETHICAL HACKING-2",
+        "location": "LP303/F-BLOCK",
+        "type": "Lecture"
+      },
+      {
+        "time": "12:10 PM",
+        "subject": "OPTIMIZATION TECHNIQUES",
+        "location": "LT401",
+        "type": "Lecture"
+      }
+    ],
+    "Friday": [
+      {
+        "time": "11:20 AM",
+        "subject": "INNOVATION AND ENTREPRENEURSHIP",
+        "location": "T201",
+        "type": "Tutorial"
+      },
+      {
+        "time": "12:10 PM",
+        "subject": "INNOVATION AND ENTREPRENEURSHIP",
+        "location": "T201",
+        "type": "Tutorial"
+      },
+      {
+        "time": "01:50 PM",
+        "subject": "INNOVATION AND ENTREPRENEURSHIP",
+        "location": "LT401",
+        "type": "Lecture"
+      },
+      {
+        "time": "02:40 PM",
+        "subject": "COMPUTER GRAPHICS",
+        "location": "LT401",
+        "type": "Lecture"
+      },
+      {
+        "time": "03:30 PM",
+        "subject": "MICROPROCESSOR-BASED SYSTEMS DESIGN",
+        "location": "LT401",
+        "type": "Lecture"
+      },
+      {
+        "time": "04:20 PM",
+        "subject": "THEORY OF COMPUTATION",
+        "location": "LT401",
+        "type": "Lecture"
+      }
+    ]
+  }
