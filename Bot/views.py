@@ -22,7 +22,12 @@ def telegram_webhook(request):
     elif chat_id and text.startswith("/chat"):
         user_message = text.replace("/chat", "", 1).strip()
         if user_message:
-            reply = ask_gemini(user_message)
+            try:
+                reply = ask_gemini(user_message)
+            except:
+                return {"Error":"Gemini API Error"}
+        else:
+            reply = "Ask Something"
     else:
         reply = (
             "✨ *Welcome! Here are your available commands:* ✨\n\n"
