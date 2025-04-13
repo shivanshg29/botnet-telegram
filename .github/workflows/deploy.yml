@@ -37,7 +37,7 @@ jobs:
 
     - name: SSH into GCP and Deploy
       run: |
-        ssh ${{ secrets.GCP_USER }}@${{ secrets.GCP_HOST }} << 'EOF'
+        ssh -o StrictHostKeyChecking=no ${{ secrets.GCP_USER }}@${{ secrets.GCP_HOST }} << 'EOF'
           cd ~/botnet-telegram
           git pull origin main
           docker compose down
