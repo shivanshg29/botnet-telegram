@@ -6,7 +6,7 @@ from django.conf import settings
 genai.configure(api_key=settings.GEMINI_API_KEY)
 
 model=genai.GenerativeModel('gemini-2.0-flash')
-
+# Test
 def ask_gemini(prompt):
     response=model.generate_content(prompt)
     return response.text.strip()
