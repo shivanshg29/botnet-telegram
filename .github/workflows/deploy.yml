@@ -22,7 +22,7 @@ jobs:
       run: mkdir -p ~/.ssh
 
     - name: Write SSH key to file
-      run: echo "${{ secrets.GCP_SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+      run: echo "${{ secrets.GCP_SSH_KEY }}" > ~/.ssh/id_rsa
       shell: bash
 
     - name: Set permissions for the SSH key
