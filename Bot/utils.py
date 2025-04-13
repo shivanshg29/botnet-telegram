@@ -17,7 +17,7 @@ def get_current_meal():
         return "breakfast"
     elif 11 <= hour < 16:
         return "lunch"
-    elif 18 <= hour < 23:
+    elif 16 <= hour <= 23:
         return "dinner"
     else:
         return None 
