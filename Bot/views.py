@@ -1,10 +1,15 @@
 from .utils import ask_gemini,menu,get_today_timetable
 from django.conf import settings
 from rest_framework.response import Response
+from django.shortcuts import render
 from rest_framework.permissions import AllowAny
 import requests
 from rest_framework.decorators import api_view,permission_classes
 # Create your views here.
+
+@api_view(['GET'])
+def home(request):
+    return render(request, 'home.html')
 
 @api_view(['POST'])
 @permission_classes([AllowAny])
